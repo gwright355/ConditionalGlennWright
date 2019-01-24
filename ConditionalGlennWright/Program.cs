@@ -26,67 +26,67 @@ namespace ConditionalGlennWright
                     Console.ReadKey(true);
                 }
 
-                if ((Average >= 92) && (Average <= 97))
+                else if ((Average >= 92) && (Average <= 97))
                 {
                     Console.WriteLine("Your grade will be an A in the class");
                     Console.ReadKey(true);
                 }
 
-                if ((Average >= 90) && (Average <= 91))
+                else if ((Average >= 90) && (Average <= 91))
                 {
                     Console.WriteLine("Your grade will be an A- in the class");
                     Console.ReadKey(true);
                 }
 
-                if ((Average >= 88) && (Average <= 89))
+                else if ((Average >= 88) && (Average <= 89))
                 {
                     Console.WriteLine("Your grade will be a B+ in the class");
                     Console.ReadKey(true);
                 }
 
-                if ((Average >= 82) && (Average <= 87))
+                else if ((Average >= 82) && (Average <= 87))
                 {
                     Console.WriteLine("Your grade will be a B in the class");
                     Console.ReadKey(true);
                 }
 
-                if ((Average >= 80) && (Average <= 81))
+                else if ((Average >= 80) && (Average <= 81))
                 {
                     Console.WriteLine("Your grade will be a B- in the class");
                     Console.ReadKey(true);
                 }
 
-                if ((Average >= 78) && (Average <= 79))
+                else if ((Average >= 78) && (Average <= 79))
                 {
                     Console.WriteLine("Your grade will be a C+ in the class");
                     Console.ReadKey(true);
                 }
 
-                if ((Average >= 72) && (Average <= 77))
+                else if ((Average >= 72) && (Average <= 77))
                 {
                     Console.WriteLine("Your grade will be a C in the class");
                     Console.ReadKey(true);
                 }
 
-                if ((Average >= 70) && (Average <= 71))
+                else if ((Average >= 70) && (Average <= 71))
                 {
                     Console.WriteLine("Your grade will be a C- in the class");
                     Console.ReadKey(true);
                 }
 
-                if ((Average >= 68) && (Average <= 69))
+                else if ((Average >= 68) && (Average <= 69))
                 {
                     Console.WriteLine("Your grade will be a D+ in the class");
                     Console.ReadKey(true);
                 }
 
-                if ((Average >= 62) && (Average <= 67))
+                else if ((Average >= 62) && (Average <= 67))
                 {
                     Console.WriteLine("Your grade will be a D in the class");
                     Console.ReadKey(true);
                 }
 
-                if ((Average >= 60) && (Average <= 61))
+                else if ((Average >= 60) && (Average <= 61))
                 {
                     Console.WriteLine("Your grade will be a D- in the class");
                     Console.ReadKey(true);
